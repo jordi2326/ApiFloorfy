@@ -5,10 +5,13 @@ En este proyecto se encuentra una pequeña API Rest implementada en symphony que
 Este proyecto tiene dos entidades que son Propiedad y Tour. Un tour esta formado por una propiedad y nos indica si esta activo. Una propiedad incluye la información de su título y su descripción.
 
 Esta API REST tiene las funcionalidades siguientes:
-    -Añadir una propiedad. 
-    -Modificar una propiedad.
-    -Añadir un Tour.
-    -Añadir una propiedad. 
+**Esta API REST tiene las funcionalidades siguientes:**
+
+    Añadir una propiedad. 
+    Modificar una propiedad.
+    Añadir un Tour.
+    Añadir una propiedad. 
+    
 
 ## Comenzando 🚀
 
@@ -21,14 +24,16 @@ Para poder ejecutarlo en una consola utilizar el comando siguiente:
 
 ### Pre-requisitos 📋
 
-Antes de ejecutar el proyecto se debe haber instalado lo siguiente:
+**Antes de ejecutar el proyecto se debe haber instalado lo siguiente:**
 -Symphony
 -PHP 
 -Postman
 -Mysql
 
 ### Instalación 🔧
-Para instalar los programas o framework comentados anteriormente dirigirse a :
+
+**Para instalar los programas o framework comentados anteriormente dirigirse a :**
+
 -Symphony :https://symfony.com/download
 -Postman : https://www.postman.com/downloads/
 -Mysql : https://dev.mysql.com/downloads/workbench/
