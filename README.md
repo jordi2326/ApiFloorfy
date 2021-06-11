@@ -3,15 +3,13 @@
 En este proyecto se encuentra una pequeña API Rest implementada en symphony que es un framework que utiliza PHP.
 
 Este proyecto tiene dos entidades que son Propiedad y Tour. Un tour esta formado por una propiedad y nos indica si esta activo. Una propiedad incluye la información de su título y su descripción.
-
-Esta API REST tiene las funcionalidades siguientes:
+    
 **Esta API REST tiene las funcionalidades siguientes:**
 
-    Añadir una propiedad. 
-    Modificar una propiedad.
-    Añadir un Tour.
-    Añadir una propiedad. 
-    
+  - Añadir una propiedad. 
+  - Modificar una propiedad.
+  - Añadir un Tour.
+  - Añadir una propiedad.
 
 ## Comenzando 🚀
 
@@ -25,19 +23,25 @@ Para poder ejecutarlo en una consola utilizar el comando siguiente:
 ### Pre-requisitos 📋
 
 **Antes de ejecutar el proyecto se debe haber instalado lo siguiente:**
--Symphony
--PHP 
--Postman
--Mysql
+
+  - Symphony.
+  - PHP
+  - Postman.
+  - Mysql.
+
 
 ### Instalación 🔧
 
+
 **Para instalar los programas o framework comentados anteriormente dirigirse a :**
 
--Symphony :https://symfony.com/download
--Postman : https://www.postman.com/downloads/
--Mysql : https://dev.mysql.com/downloads/workbench/
--PHP :https://www.php.net/manual/es/install.windows.legacy.index.php
+  - Symphony :https://symfony.com/download.
+  - PHP :https://www.php.net/manual/es/install.windows.legacy.index.php.
+  - Postman : https://www.postman.com/downloads/.
+  - Mysql : https://dev.mysql.com/downloads/workbench/.
+
+
+
 
 Despues de instalar, una vez abierto el proyecto se debe cambiar la variable de la base de datos por la que se se esta utilizando.
 Esta variable se encuentra en :  C:\APIfloorfy\.env
