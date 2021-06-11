@@ -22,17 +22,17 @@ Para poder ejecutarlo en una consola utilizar el comando siguiente:
 ### Pre-requisitos 📋
 
 Antes de ejecutar el proyecto se debe haber instalado lo siguiente:
-    -Symphony
-    -PHP 
-    -Postman
-    -Mysql
+-Symphony
+-PHP 
+-Postman
+-Mysql
 
 ### Instalación 🔧
 Para instalar los programas o framework comentados anteriormente dirigirse a :
-    -Symphony :https://symfony.com/download
-    -Postman : https://www.postman.com/downloads/
-    -Mysql : https://dev.mysql.com/downloads/workbench/
-    -PHP :https://www.php.net/manual/es/install.windows.legacy.index.php
+-Symphony :https://symfony.com/download
+-Postman : https://www.postman.com/downloads/
+-Mysql : https://dev.mysql.com/downloads/workbench/
+-PHP :https://www.php.net/manual/es/install.windows.legacy.index.php
 
 Despues de instalar, una vez abierto el proyecto se debe cambiar la variable de la base de datos por la que se se esta utilizando.
 Esta variable se encuentra en :  C:\APIfloorfy\.env
